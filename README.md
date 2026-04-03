@@ -48,9 +48,6 @@ An AI-powered interview preparation platform built using MERN stack that simulat
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
-
-git clone https://github.com/your-username/ai-interview-simulator.git
 
 ### 2.Install Dependencies
 a) Backend
